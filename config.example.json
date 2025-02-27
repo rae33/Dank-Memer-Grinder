@@ -18,8 +18,8 @@
         "maxSeconds": 0.4
       },
       "breakCooldown": {
-        "minHours": 0.2,
-        "maxHours": 1.6
+        "minHours": 1.1,
+        "maxHours": 1.7
       },
       "breakDuration": {
         "minHours": 1,
@@ -33,6 +33,7 @@
         "minSeconds":  3,
         "maxSeconds": 7
       }
+    }
   },
   "accounts": [],
   "autoBuy": {
